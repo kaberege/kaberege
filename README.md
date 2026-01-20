@@ -1,7 +1,7 @@
-```markdown
-# 👋 Hello, I'm Kaberege Godard Nestor
+# Hello, I'm Kaberege Godard Nestor
 
-### 🚀 Creative Software Developer | Full-Stack Engineer
+### Creative Software Developer | Full-Stack Engineer
+
 I am a versatile software developer dedicated to crafting dynamic web and mobile applications. With a unique background transitioning from **Anaesthesia** to **Computer Science**, I bring a high level of precision, problem-solving, and calm under pressure to the world of software engineering.
 
 ---
@@ -32,33 +32,37 @@ I am a versatile software developer dedicated to crafting dynamic web and mobile
 ### Featured Projects
 
 #### [Trip Tracker Full-Stack App](https://github.com/kaberege)
-*A comprehensive travel management tool.*
-* **Stack:** Django REST Framework, React TS, Tailwind CSS.
-* **Key Feature:** Type-safe frontend and robust API for tracking multi-stop journeys.
+
+_A comprehensive travel management tool._
+
+- **Stack:** Django REST Framework, React TS, Tailwind CSS.
+- **Key Feature:** Type-safe frontend and robust API for tracking multi-stop journeys.
 
 #### [Travel Booking API](https://github.com/kaberege)
-*Robust backend for travel agencies.*
-* **Stack:** Python, Django, JWT, MySQL.
-* **Key Feature:** Secure user authentication and payment integration.
+
+_Robust backend for travel agencies._
+
+- **Stack:** Python, Django, JWT, MySQL.
+- **Key Feature:** Secure user authentication and payment integration.
 
 ---
 
 ### GitHub Stats
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kaberege&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaberege&layout=compact&theme=radical)
 
 ---
 
 ### Let's Connect!
+
 - [Portfolio](https://kaberege-portfolio.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/kaberege-godard-nestor-53a0b4215)
 - [X (Twitter)](https://x.com/Kaberege_gn)
 - [Email Me](mailto:nestor.godard.kaberege@gmail.com)
 
---- 
+---
+
 **Check out my pinned projects below!**
 
 ![Visitor Counter](https://komarev.com/ghpvc/?username=kaberege&color=blue)
-
-```
-
