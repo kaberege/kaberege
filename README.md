@@ -9,6 +9,7 @@ I am a versatile software developer dedicated to crafting dynamic web and mobile
 ### My Tech Stack
 
 **Frontend & Mobile**
+
 ![React](https://img.shields.io/badge/react-%23202322.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%23202322.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -16,6 +17,7 @@ I am a versatile software developer dedicated to crafting dynamic web and mobile
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend & Database**
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,6 +25,7 @@ I am a versatile software developer dedicated to crafting dynamic web and mobile
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **DevOps & Tools**
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -31,14 +34,14 @@ I am a versatile software developer dedicated to crafting dynamic web and mobile
 
 ### Featured Projects
 
-#### [Trip Tracker Full-Stack App](https://github.com/kaberege)
+#### [Trip Tracker Full-Stack App](https://github.com/kaberege/truck-trip-tracker-django)
 
 _A comprehensive travel management tool._
 
 - **Stack:** Django REST Framework, React TS, Tailwind CSS.
 - **Key Feature:** Type-safe frontend and robust API for tracking multi-stop journeys.
 
-#### [Travel Booking API](https://github.com/kaberege)
+#### [Travel Booking API](https://github.com/kaberege/alx_travel_app_backend)
 
 _Robust backend for travel agencies._
 
