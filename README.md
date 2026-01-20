@@ -23,6 +23,8 @@ I am a versatile software developer dedicated to crafting dynamic web and mobile
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **DevOps & Tools**
 
@@ -47,6 +49,18 @@ _Robust backend for travel agencies._
 
 - **Stack:** Python, Django, JWT, MySQL.
 - **Key Feature:** Secure user authentication and payment integration.
+
+#### [Online Poll System Backend](https://github.com/kaberege/online_poll_system_backend)
+
+_A high-concurrency voting engine built with Django REST Framework._
+
+- **Stack:** Python, Django, PostgreSQL, Docker, JWT.
+
+- **Key Features:** Fully Dockerized: Containerized architecture for consistent deployment and scaling.
+
+- **Security:** Implements JWT authentication and strict voting logic to prevent double-voting.
+
+- **API Excellence:** Automated documentation with Swagger UI/ReDoc and CORS-ready for frontend integration.
 
 ---
 
